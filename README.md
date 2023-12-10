@@ -10,7 +10,7 @@ Welcome to the InstantNews App, a feature-rich mobile application that provides 
 - **Offline Reading:** Save articles to read later, even without an internet connection.
 - **Sharing and Interaction:** Share articles with friends and engage in lively discussions with other users.
 
-## Demo
+## Demo (Inside Screenshots folder also , apk also is attached)
 [Live Demo](https://www.youtube.com/channel/UCzwhPwhZJ5kZuKxHPQipOKw)
 
 # Android Screen
